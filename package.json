@@ -1,5 +1,11 @@
 {
+  "name": "jest-console-dir-error",
+  "version": "0.0.0",
   "dependencies": {
     "jest": "^21.2.1"
+  },
+  "license": "WTFPL",
+  "scripts": {
+    "test": "jest"
   }
 }
